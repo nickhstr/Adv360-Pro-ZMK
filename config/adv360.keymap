@@ -81,7 +81,7 @@
         layer_Gaming {
             bindings = <
      &trans      &trans        &trans  &trans  &trans  &trans               &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-     &trans     &kp TAB         &kp Q   &kp W   &kp E   &kp R                &kp T                                                  &tog 0  &trans  &trans  &trans  &trans  &trans  &trans
+     &trans     &kp TAB         &kp Q   &kp W   &kp E   &kp R                &kp T                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &kp ESCAPE  &kp LSHIFT         &kp A   &kp S   &kp D   &kp F                &kp G  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
   &kp LCTRL   &kp LCTRL         &kp Z   &kp X   &kp C   &kp V                               &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
      &trans      &trans  &kp CAPSLOCK  &trans  &trans                    &kp SPACE  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
